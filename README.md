@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines an example of a ticket lifecycle from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -36,7 +36,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 
-![image](https://github.com/Rizzledizzle4/ticket-lifestyle/assets/135624545/8757d8ef-879a-4cce-b1e1-78f45ce32bf5)
+![image](https://github.com/Rizzledizzle4/ticket-lifestyle/assets/135624545/9046e58f-ab31-49d0-a969-70737116eb4a)
+
 
 
 
@@ -45,10 +46,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
+![image](https://github.com/Rizzledizzle4/ticket-lifestyle/assets/135624545/403476b8-4d65-4a4b-9e31-646bff5dcc94)
+
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
