@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines an example of a ticket lifecycle from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines one example of a ticket lifecycle from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -21,7 +21,6 @@ This tutorial outlines an example of a ticket lifecycle from intake to resolutio
 
 - Intake
 - Assignment and Communication
-- Working the Issue
 - Resolution
 
 <h2>Lifecycle Stages</h2>
@@ -30,8 +29,7 @@ This tutorial outlines an example of a ticket lifecycle from intake to resolutio
 ![image](https://github.com/Rizzledizzle4/ticket-lifestyle/assets/135624545/162ba7e8-273a-4c90-98f5-25bd3a5badf9)
 
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heres an example of an Employee (Karen) creating a ticket within the Support System.
 </p>
 <br />
 
@@ -41,8 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heres an example of a System Administrator editing and assigning the ticket to Jane Doe.(In a real world scenario this would probably be the Queue Managers resposibilty.)
 </p>
 <br />
 
@@ -51,6 +48,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Since this ticket wasnt relativley simple Jane Doe updates Karen letting her know her issue was resolved.Jane could now close this ticket.
 </p>
 <br />
